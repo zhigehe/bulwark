@@ -71,3 +71,19 @@ jobs:
           git commit -m "$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
           git pull --rebase origin dev
           git push origin dev
+
+      - name: Check and merge to main
+        run: |
+          main_last_commit=$(git log -1 --format=%ct origin/main)
+          current_time=$(date +%s)
+          time_diff=$((current_time - main_last_commit))
+          
+          if [ $time_diff -gt 3600 ]; then
+            echo "Main branch is older than 1 hour, merging dev to main..."
+            git fetch origin main
+            git checkout main
+            git merge dev --no-ff -m "Merge dev to main at $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
+            git push origin main
+          else
+            echo "Main branch is up to date, skipping merge."
+          fi
