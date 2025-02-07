@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import hashlib
 from datetime import datetime
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
@@ -61,7 +62,9 @@ def process_json_file(json_file, output_dir):
         file_id = item.get("id", "")
         title = item.get("title", "")
         language = item.get("language", "")
-        filename = f"{file_id}-{language}" if file_id else "-".join(title.split())
+        if not language:
+            continue
+        filename = f"{file_id}.{language}" if file_id else f"{hashlib.md5((title + item.get("source", "")).encode('utf-8')).hexdigest()}{'.' + language}"
 
         # Sanitize filename
         filename = re.sub(r'[\\/*?:"<>|]', "", filename) + ".md"
