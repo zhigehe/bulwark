@@ -6,7 +6,7 @@ lead: Describes common Mainroad theme configuration parameters that can be adjus
   section.
 date: 2022-01-24T14:00:00.000Z
 thumbnail:
-  src: "img/placeholder.png"
+  src: "img/logo.png"
   visibility:
     - list
 authorbox: false
@@ -32,7 +32,7 @@ options in your site config:
 
 ```toml
 [Params.logo]
-  image = "img/placeholder.png"
+  image = "img/logo.png"
   title = "Mainroad"
   subtitle = "Just another site"
 ```
@@ -107,7 +107,7 @@ front matter block.
 
 ```yaml
 thumbnail:
-  src: "img/placeholder.png"
+  src: "img/logo.png"
   visibility:
     - list
     - post
