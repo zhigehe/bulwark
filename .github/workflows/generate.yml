@@ -67,16 +67,10 @@ jobs:
         run: |
           git config --global user.name "zhigehe"
           git config --global user.email "17086898389@163.com"
-          
-          # 检查是否有更改需要提交
-          if git diff --quiet; then
-            echo "No changes to commit."
-          else
-            git add .
-            git commit -m "$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
-            git pull --rebase origin dev
-            git push origin dev
-          fi
+          git add .
+          git commit -m "$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
+          git pull --rebase origin dev
+          git push origin dev
 
       - name: Check and merge to main
         run: |
