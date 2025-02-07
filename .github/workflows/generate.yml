@@ -13,6 +13,13 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    
+    # 添加 permissions 配置
+    permissions:
+      id-token: write  # 允许写入 id-token
+      contents: write  # 允许写入内容
+      pages: write     # 允许写入 pages
+      deployments: write  # 允许写入部署
 
     steps:
       - name: Checkout code
