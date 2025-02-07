@@ -1,0 +1,34 @@
+---
+title: "基滙資本夥PCG購東急PLAZA銀座 涉資逾78億"
+date: "2025-02-07 16:25:40"
+summary: "房地産私募基金管理公司基滙資本公布，夥Patience Capital Group(PCG)成功收購..."
+categories:
+  - "hkej"
+lang:
+  - "zh-HK"
+translations:
+  - "zh-HK"
+tags:
+  - "hkej"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+房地産私募基金管理公司基滙資本公布，夥Patience Capital Group(PCG)成功收購位於日本東京銀座五丁目的標志性零售資産「東急PLAZA銀座」，基滙資本持有91%股份，PCG則持有餘下9%股份，涉資逾10億美元(約78億港元)。
+
+東急PLAZA銀座於2016年竣工，坐落於銀座中心黃金地段，總建築面積達約5萬方米，直通銀座站。基滙指旅客數目日益增長以及日圓貶值推動下，奢侈品消費需求不斷提升，東京零售銷售額持續增長。此外，日本國內消費在薪資增長帶動下有望進一步改善。日本政府計劃將毗鄰項目的東京高速KK線改造為綠色步行道「東京空中走廊」(Tokyo Sky Corridor)，預計2029年部分開放，故看好東急PLAZA銀座的便捷性和增值潛力。
+
+基滙資本投資部董事總經理、合夥人及日本地區主管盧洛琳指，此次與PCG合作所帶來的協同效應，使其能够最大化這一地標資産價值，並有信心將這座購物中心轉型為頂級零售目的地。隨着日本零售市場受宏觀經濟基本面支持而持續改善，現正是投資理想時機。
+
+[hkej](https://www2.hkej.com/instantnews/international/article/3995130/%E5%9F%BA%E6%BB%99%E8%B3%87%E6%9C%AC%E5%A4%A5PCG%E8%B3%BC%E6%9D%B1%E6%80%A5PLAZA%E9%8A%80%E5%BA%A7+%E6%B6%89%E8%B3%87%E9%80%BE78%E5%84%84)

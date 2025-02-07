@@ -74,6 +74,10 @@ jobs:
 
       - name: Check and merge to main
         run: |
+          # 先获取所有远程分支信息
+          git fetch --all
+          
+          # 获取 main 分支的最后提交时间
           main_last_commit=$(git log -1 --format=%ct origin/main)
           current_time=$(date +%s)
           time_diff=$((current_time - main_last_commit))
