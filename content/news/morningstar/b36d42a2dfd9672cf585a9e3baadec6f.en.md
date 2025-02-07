@@ -1,0 +1,56 @@
+---
+title: "Oil prices head for third straight weekly fall amid tariff fears, U.S. supplies"
+date: "2025-02-07 21:00:56"
+summary: "By William Watts Oil futures bounced Friday from 2025 lows, but were on track for a third straight weekly fall amid rising U.S. inventories and worries that higher U.S. tariffs on China will dent growth and crude demand. Price moves -- West Texas Intermediate crude CL00 for March delivery CL.1..."
+categories:
+  - "morningstar"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "morningstar"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+By William Watts
+
+Oil futures bounced Friday from 2025 lows, but were on track for a third straight weekly fall amid rising U.S. inventories and worries that higher U.S. tariffs on China will dent growth and crude demand.
+
+Price moves
+
+-- West Texas Intermediate crude CL00 for March delivery CL.1 CLH25 rose 52 cents, or 0.7%, to $71.13 a barrel on the New York Mercantile Exchange, but was headed for a 1.9% weekly fall.
+
+-- April Brent crude BRN00 BRNJ25, the global benchmark, was up 55 cents, or 0.7%, at $74.84 a barrel on ICE Futures Europe, on track for a weekly decline of 1.1%.
+
+Market drivers
+
+WTI, the U.S. benchmark, fell toward $70 a barrel on Thursday, finding "strong dip buying" interest this morning, Ipek Ozkardeskaya, senior analyst at Swissquote Bank, said in a note. Both WTI and Brent ended Thursday at their lowest since Dec. 27.
+
+Concerns over Trump trade policies after the imposition of an additional 10% tariff on China this week and uncertainty over other tariff moves threaten to "hammer global growth prospects and will probably support a deeper retreat in crude prices," she wrote, with a fall toward the $65 to 68 range now looking plausible.
+
+Oil saw pressure earlier in the week after the U.S. Energy Information Administration reported Wednesday that commercial crude inventories climbed for a second week in a row, up 8.7 million barrels for the week that ended Jan. 31.
+
+-William Watts
+
+This content was created by MarketWatch, which is operated by Dow Jones & Co. MarketWatch is published independently from Dow Jones Newswires and The Wall Street Journal.
+
+(END) Dow Jones Newswires
+
+02-07-25 0745ET
+
+Copyright (c) 2025 Dow Jones & Company, Inc.
+
+[morningstar](https://www.morningstar.com/news/marketwatch/20250207166/oil-prices-head-for-third-straight-weekly-fall-amid-tariff-fears-us-supplies)
