@@ -1,0 +1,65 @@
+name: Generate Content
+
+on:
+  repository_dispatch:
+    types: [run]
+
+env:
+  token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+jobs:
+  generate:
+    runs-on: macos-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+         
+      - name: Run generate.py
+        run: |
+          python3 scripts/generate.py
+          python3 scripts/github.py
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.143.1'  # 使用你当前使用的 Hugo 版本
+          extended: true
+
+      - name: Build with Hugo
+        run: hugo --minify
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './public'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "zhigehe"
+          git config --global user.email "17086898389@163.com"
+          git add .
+          git commit -m "$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
+          git push origin main

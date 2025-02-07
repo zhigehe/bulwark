@@ -1,0 +1,42 @@
+---
+title: "一部全能AI手機，ASUS ZenFone 12 Ultra 港行賣這個價?"
+date: "2025-02-07 11:11:05"
+summary: "新一代 ASUS ZenFone 12 Ultra 機身採用了機身採用 100% 回收鋁金屬 與 2..."
+categories:
+  - "now"
+lang:
+  - "zh-HK"
+translations:
+  - "zh-HK"
+tags:
+  - "now"
+menu: ""
+thumbnail: "https://images-news.now.com/newsimage/NewsImage/2025-02-07-11-04-29cc3eUsHA.jpg"
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+新一代 ASUS ZenFone 12 Ultra 機身採用了機身採用 100% 回收鋁金屬 與 22% 回收玻璃，符合近年科技業強調的永續發展趨勢。此外，罕有地保留 3.5mm 耳機孔，並具備IP68 防塵防水規格，兼顧傳統用戶需求與耐用性，與多數旗艦機移除耳機孔的設計形成對比。
+
+至於規格上，ASUS ZenFone 12 Ultra 採用 6.78” FHD+ 解像度 144Hz OLED 屏幕，配備 Snapdragon n 8 Elite SoC，內建最高16GB RAM + 512GB ROM，電池容量為6000mAh 電量，支援 65W 有線及 15W 無線充電功能。
+
+Asus ZenFone 12 Ultra 搭載三鏡頭，分別為 5000 萬像廣角主鏡 + 1300 萬像超廣角鏡 + 3200 萬像素 3X 遠攝鏡，廣角鏡頭支援 Hybrid Gimbal Stabilizer 4.0 技術，支援六軸防手震，相機更加入 AI 人像錄影、AI 追焦錄影及 AI Panning 動態相片功能。今次於 AI 消除功能內，還加入 AI 修復功能，可將模糊的相片修復。
+
+ZenFone 12 Ultra 延續上代 ZenFone 11 Ulta 強勁 AI功能，而且加強了如 AI 即時翻譯通話功能，支援第三方通話應用；AI 錄音轉文字，支援更多語言 (包括廣東話)；新增 AI 檔案摘要功能；Google 一圈即搜功能支援聲音搜尋。此外，ZenFone 12 Ultra 設有地端AI功能，可以離線離線的情況下使用，包括 AI 翻譯、AI 錄音轉文字、AI 文章摘要、AI 檔案摘要、AI 系統搜尋功能等。
+
+Zenfone 12 Ultra 16GB/512GB 搭配冷杉綠、櫻花白、檀木黑三款絕美配色，建議零售價為 HK$8,498。2 月 7 日中午 12:00 起於ASUS Store、ASUS Pro Shop﹑1O1O ﹑csl 、豐澤、澳門電訊及澳門堅毅行現貨開賣。
+
+Zenfone 12 Ultra 將推出首購限定優惠，2 月 7 日至 2 月 20 日期間於 ASUS Store、ASUS Pro Shop﹑1O1O﹑csl 、豐澤、澳門電訊及澳門堅毅行門市及網店買 Zenfone 12 Ultra 即可享旗艦配件組，包括：Zenfone 12 Ultra 專用抗菌玻璃螢幕保護貼及 DEVILCASE 惡魔防摔殼標準版 (磁吸兼容)，總值 HK$558。
+
+ASUS Store 官方網店加推獨家特高現金回贈換機計劃, 用家於 2 月 20 日前選購 Zenfone 12 Ultra 再到 ASUS 一站式 Trade-in 服務網站 Trade-in 舊機即可享最高 HK$1,000 額外回收價回贈 — 凡以舊 Zenfone 型號 Trade-in 即可享額外 $1,000 回收價回贈；以非 Zenfone 型號 Trade-in 則可享額外 $600 回收價回贈，用家輕鬆就可以取得特高現金回贈。優惠期內選用指定信用卡分期更可享長達12個月買機分期及手續費豁免，每月只須 $709 起，輕鬆升級 Zenfone 12 Ultra。透過 Shopback 現金回贈平台到 ASUS Store 買 Zenfone 12 Ultra 更可享 2.5% 現金回贈。
+
+[now](https://news.now.com/home/technology/player?newsId=592722)
