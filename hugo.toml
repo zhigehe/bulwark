@@ -1,4 +1,4 @@
-baseurl = "/bulwark/"
+baseurl = "/"
 title = "Bulwark"
 languageCode = "en-us"
 pagination.pagerSize = "10" # Number of posts per page
