@@ -44,7 +44,7 @@ theme = "mainroad"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  image = "img/logo.png" # Logo image. Path relative to "static"
   title = "Bulwark" # Logo title, otherwise will use site title
   subtitle = "News" # Logo subtitle
 
