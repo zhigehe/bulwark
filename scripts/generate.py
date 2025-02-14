@@ -77,7 +77,6 @@ def process_json_file(json_file, output_dir, folder):
         if not os.path.exists(lang_dir):
             os.makedirs(lang_dir)
         filepath = os.path.join(lang_dir, filename)
-        print(filepath)
 
         if os.path.exists(filepath):
             continue
