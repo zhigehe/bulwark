@@ -76,4 +76,3 @@ jobs:
           git add .
           git commit -am "generate news"
           git push origin main -f
-          git branch --set-upstream-to=origin/main
