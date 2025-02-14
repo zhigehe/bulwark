@@ -1,0 +1,167 @@
+---
+title: "Bioretec Ltd's financial statements bulletin 2024: Foundation for future growth in 2024 - CE mark received in January 2025"
+date: "2025-02-14 14:00:11"
+summary: "BioretecBioretec Ltd Company announcement 14 February 2025 at 8:00 a.m.This company announcement is a summary of Bioretec Ltd’s financial statements bulletin for January–December 2024. The complete financial statements bulletin with tables is attached to this release as a pdf file and available at the company’s web pages at https://bioretec.com/investors/investors-in-english/reports-and-presentationsJuly–December 2024..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+Bioretec
+
+Bioretec Ltd  Company announcement 14 February 2025 at 8:00 a.m.
+
+This company announcement is a summary of Bioretec Ltd’s financial statements bulletin for January–December 2024. The complete financial statements bulletin with tables is attached to this release as a pdf file and available at the company’s web pages at https://bioretec.com/investors/investors-in-english/reports-and-presentations
+
+**July–December 2024 in brief**
+
+* In the second half of the year, Bioretec achieved significant milestones in market launch preparation and product development.
+* In November, the company raised EUR 6.0 million in a significantly oversubscribed share issue, reflecting strong investor confidence in Bioretec’s growth strategy.
+* After the reporting period in January 2025, Bioretec received the long-waited CE mark for RemeOs™ Trauma Screw product portfolio. The CE mark enables immediate market launch of the RemeOs products in Europe and supports commercialization in non-European countries that recognize the CE mark.
+* Net sales increased by 23,2% and amounted to EUR 2,482 thousand (7-12/2023: EUR 2,016 thousand).
+* Sales margin (excl. other income) was EUR 1,770 (1,401) thousand or 71.3% (69.5%) of net sales.
+* Net loss for the period amounted to EUR -2,730 (-1,714) thousand. The net loss of the period includes the cost of financing arrangement amounting to EUR 489 thousand.
+
+**January–December 2024 in brief**
+
+* Net sales grew 16,3% and amounted to EUR 4,544 thousand (1-12/2023: EUR 3,906 thousand).
+* Sales margin (excl. other income) was EUR 3,221 (2,728) thousand or 70.9% (69.8%) of net sales. The sales margin in January-December 2024 includes other income of EUR 170 (82) thousand accrued relating to a Business Finland grant.
+* Net loss for the period amounted to EUR -4,614 (-3,789) thousand. The net loss of the period includes the cost of financing arrangement amounting to EUR 489 (775) thousand.
+* Earnings per share (undiluted) were EUR -0.20 (-0.19).
+* The Board of Directors proposes that no dividend be distributed for the financial period 1 January–31 December 2024.
+
+**Key events in 2024**
+
+* In June, the European market authorization application for the RemeOsTM trauma screw returned from expert panel evaluation signaling market authorization was now expected later than the earlier estimate (Q2/2024).
+* In March, Bioretec was granted an FDA Breakthrough Device Designation status for its RemeOs™ Spinal Interbody Cage.
+* In March, Bioretec’s RemeOs™ biodegradable magnesium alloy composition was granted a patent by the U.S. Patent Office.
+* In May, Alan Donze was appointed Bioretec’s CEO.
+* In June, Frank Sarcone was appointed as Vice President of Sales for the U.S. and a member of the Management team.
+* In June, Bioretec communicated positive clinical outcomes from the controlled launch of RemeOs™ trauma screw.
+* In September 2024, the following persons were appointed to Bioretec’s Shareholders' Nomination Board: Kustaa Poutiainen, Chair and Founder of Stephen Industries Inc Oy as Chair, and Karoliina Lindroos, Head of Responsible Investment of Ilmarinen Mutual Pension Insurance Company and Marko Berg, Deputy Investment Officer of University of Helsinki, as members. The Chairman of the Board of Bioretec acts as an expert on the Nomination Board.
+* In October, Bioretec updated its product development strategy and announced the company will accelerate the product development of the RemeOs™ Spinal Interbody Cage. As a result, the Board of Directors of Bioretec updated Bioretec's financial targets.
+* In November, Bioretec signed a new logistics agreement for U.S. operations with customer support services provider GlobalMed Logistix and a new sales and distribution agreement with Tri-State Biologics.
+* In November, Bioretec arranged a private placement for institutional and other experienced investors. Through a significantly oversubscribed private placement, Bioretec raised gross proceeds totaling EUR 6.0 million, which will be used to strengthen the commercialization of the RemeOs™ Trauma Screw in the United States and Europe upon the receipt of the market authorization in Europe and to accelerate the product development of the RemeOs™ Spinal Interbody Cage.
+
+This financial statements bulletin is unaudited.
+
+**Key figures**
+
+| EUR 1,000 | H2 2024 | H2 2023 | Change, % | FY  2024 | FY  2023 | Change, % |
+| --- | --- | --- | --- | --- | --- | --- |
+| Net sales | 2,482 | 2,016 | 23.2% | 4,544 | 3,906 | 16.3% |
+| Sales margin | 1,868 | 1,483 | 26.0% | 3,391 | 2,810 | 20.7% |
+| Sales margin (excl. other income) | 1,770 | 1,401 | 26.3% | 3,221 | 2,728 | 18.1% |
+| Sales margin, % of net sales | 75.3% | 73.6 % |  | 74.6% | 71.9% |  |
+| Sales margin% (excl. other income) | 71.3% | 69.5% |  | 70.9% | 69.8% |  |
+| EBITDA | -2,189 | -1,703 | 28.5% | -4,053 | -2,833 | 43.1% |
+| EBIT | -2,281 | -1,801 | 26.6% | -4,202 | -3,034 | 38.5% |
+| Profit/-loss for the period (+/-) | -2,730 | -1,714 | 59.3% | -4,614 | -3,789 | 21.8% |
+| R&D spend on total costs, % | 32.0% | 22.7 % |  | 28.7% | 25.6% |  |
+| Equity ratio, % | 84.9% | 77.3 % |  | 84.9% | 77.3% |  |
+| Cash and cash equivalents at the end of the period | 6,289 | 6,910 | -9.0% | 6,289 | 6,910 | -9.0% |
+| Earnings per share (undiluted) | -0.12 | -0.09 | 33.3% | -0.20 | -0.19 | 1.9% |
+| Earnings per share (diluted) | -0.10 | -0.07 | 42.2% | -0.17 | -0.15 | 8.7% |
+| Shares at the end of the period (undiluted) | 23,336,858 | 19,536,858 |  | 23,336,858 | 19,536,858 |  |
+| Shares at the end of the period (diluted) | 27,515,133 | 24,908,133 |  | 27,515,133 | 24,908,133 |  |
+| Personnel at the end of the period | 47 | 37 | 27.0% | 47 | 37 | 27.0% |
+
+**Alan Donze, CEO of Bioretec Ltd:**
+
+For Bioretec, year 2024 was a great achievement as we managed to grow our net sales despite the delayed market approvals and significant investment in building out our U.S. infrastructure.  We took pivotal strides in the implementation of our strategy. We began our second phase of the RemeOs™ Trauma Screw launch in the U.S., which was supported with the recruitment of key members of the top management and the signing of new distribution and logistics agreements. We also updated our product development strategy and achieved milestones in market approval processes and patenting. To support our growth strategy and product development, we successfully raised EUR 6 million of new capital in November. Finally, in January 2025 we received the CE mark approval for RemeOs™ Trauma Screw product portfolio, a long-awaited milestone in our pursuit for expanded commercial growth.
+
+In 2024, our net sales increased by 16 percent from the previous year, reaching EUR 4,5 million. The net sales consisted mainly of our Activa products, as the launch of RemeOs™ Trauma Screw in the U.S. is still ongoing and the CE mark approval allowing the launch in Europe was only received in January 2025. Our net sales in Europe increased by 46 percent and in the U.S. 30 percent, while the development in the rest of the world remained relatively stable.  Despite a slight dip in our sales margin influenced by China’s volume-based procurement policies earlier this year, our margins improved during the last quarter of 2024 due to increased share of sales in the US.
+
+The initial controlled launch of RemeOs™ Trauma Screws in the U.S. yielded excellent patient results and excellent post-healing follow-ups. This success established a strong foundation for entering the second phase of commercialization for RemeOs products in the U.S. In this phase, we will focus on expanding the distribution of the RemeOs™ Trauma Screw beyond the initial selected group of hospitals to a broader network. In addition to RemeOs products, we are also launching the Activa product line to the U.S. market.
+
+To support these efforts, we successfully signed two important new cooperation agreements. In November, we entered into a new logistics agreement with GlobalMed Logistix (GMLx), a leader in healthcare logistics, that operates its own logistics center on the east coast of the United States with a has a nationwide network. This agreement ensures high service levels for customers throughout the U.S. market with seamless import and distribution of implants and instrument sets to hospitals. Additionally, we signed an important agreement with Tri-State Biologics (TSB), a leading distributor of medical and surgical products based in New Jersey. This partnership will enable the efficient sales and distribution of implants and instrument sets to hospitals in one of the most populated areas of the United States.
+
+In addition to the commercial progress of the trauma screw, we are excited about the positive results of the RemeOs™ Spinal Interbody Cage, which received FDA’s Breakthrough Device Designation status. To speed-up the commercialization of RemeOs™ Trauma Screw products and overall product development strategy, including the RemeOs™ Spinal Interbody Cage, we organized a successful and significantly oversubscribed share issue in November, raising EUR 6 million of funds. We were very pleased with the strong response to the share issue, which reflects the confidence investors have in our vision and strategy.
+
+We are extremely pleased that in January 2025, we finally received the CE mark approval for RemeOs™ Trauma Screws, which not only allows immediate product launch in Europe, but also enables commercialization in non-European countries that recognize the CE mark. The CE mark received includes all RemeOs designs, and a broad indication set. The approval will accelerate the collection of real-world clinical evidence, which will enable the expansion of indications in the U.S., where the current approval is more limited.
+
+With the receipt of the CE mark approval in 2025, we will focus on the launch of the full line of the RemeOs products to our customers and existing network of European distributors. In the U.S., we wait for new market approvals and maintain a focus on creating market demand with hospitals and surgeons as well as adding additional distributor partners for the U.S. infrastructure. To keep up with the growth and future potential, we will need to further scale up our manufacturing capacity and workforce. To accomplish these plans and achieve our target of generating positive cash flow from operating activities by the end of 2027, we anticipate requiring new funding in 2025.
+
+In summary, I am extremely proud of our progress and excited about the unique opportunities that lie ahead. With the CE mark now received, we are entering a new phase in our growth strategy, and I have full trust in our capabilities to deliver the results. With the support of our dedicated personnel, owners and investors, we are well-positioned to achieve our growth targets and strengthen Bioretec’s position as a leader in innovative medical solutions.
+
+**Board of Directors’ dividend proposal**
+
+On 31 December 2024, the parent company’s distributable funds totaled EUR 6,364,318.67. The Board of Directors of the company proposes that the loss of EUR 4,669,883.08 for the financial period from 1 January to 31 December 2024 be credited in the equity as Profit(loss) for previous accounting periods and that no dividend be distributed.
+
+Financial reporting and Annual General Meeting in 2025
+
+In 2025, Bioretec will publish the following financial reports:
+
+* financial statements bulletin for January–December 2024 on Friday 14 February 2025
+
+* financial statements for 2024 on Friday, 14 February 2025
+
+* annual report for 2024 during week 11/2025 at the latest
+
+* business review for January–March 2025 on Thursday 15 May 2025
+
+* half-year report for January–June 2025 on Thursday 14 August 2025
+
+* business review for January–September 2025 on Thursday 13 November 2025
+
+The releases will be available online at Bioretec Ltd’s website at
+
+https://bioretec.com/investors/investors-in-english/reports-and-presentations.
+
+Bioretec Ltd’s Annual General Meeting is planned to be held on Friday, 21 March 2025. The company's Board of Directors will convene the Annual General Meeting separately later.
+
+Tampere, 14 February 2025
+
+Board of Directors
+
+Bioretec Ltd
+
+**For additional information about the report**
+
+Alan Donze    Johanna Salko
+
+CEO     CFO
+
++1 619 977 5285   +358 40 754 8172
+
+alan.donze@bioretec.com  johanna.salko@bioretec.com
+
+**Certified Adviser**
+
+Nordic Certified Adviser AB, +46 70 551 67 29
+
+**Information about Bioretec**
+
+Bioretec is a globally operating Finnish medical device company that continues to pioneer the application of absorbable orthopedic implants. The company has built unique competencies in the biological interface of active implants to enhance bone growth and accelerate fracture healing after orthopedic surgery. The products developed and manufactured by Bioretec are used worldwide in approximately 40 countries.
+
+Bioretec is developing the new RemeOs™ product line based on a magnesium alloy and hybrid composite, introducing a new generation of strong absorbable materials for enhanced surgical outcomes. The RemeOs™ implants are absorbed and replaced by bone, which eliminates the need for removal surgery while facilitating fracture healing. The combination has the potential to make titanium implants redundant and help clinics reach their Value-Based Healthcare targets while focusing on value for patients through efficient healthcare. The first RemeOs™ product market authorization has been received in the U.S. in March 2023, and in Europe, the CE mark approval was received in January 2025. Bioretec is positioning itself to enter the addressable over USD 9 billion global orthopedic trauma and spine market and to become a game changer in surgical bone fracture treatment.
+
+**Better Healing – Better Life.** ****www.bioretec.com****
+
+**Appendix**
+
+Bioretec Ltd’s financial statements bulletin January–December 2024 (pdf)
+
+https://news.cision.com/bioretec/r/bioretec-ltd-s-financial-statements-bulletin-2024--foundation-for-future-growth-in-2024---ce-mark-re%2Cc4105638
+
+Bioretec Financial Statements Bulletin 0101-31122024
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025-02-14:newsml_Wkr6l0XJQ:0-bioretec-ltd-s-financial-statements-bulletin-2024-foundation-for-future-growth-in-2024-ce-mark-received-in-january-2025/)
