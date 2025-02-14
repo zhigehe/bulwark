@@ -5,6 +5,8 @@ defaultContentLanguage = "en" # 设置默认语言为英文
 pagination.pagerSize = "10" # Number of posts per page
 theme = "mainroad"
 timeZone = "Asia/Shanghai"
+[markup]
+  defaultMarkdownHandler = "goldmark"
 
 [services.disqus]
   shortname = "" # Enable Disqus by entering your Disqus shortname
