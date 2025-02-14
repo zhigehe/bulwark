@@ -1,0 +1,132 @@
+---
+title: "Mink Ventures Intersects Nickel Copper Cobalt Mineralization at Warren"
+date: "2025-02-13 21:45:00"
+summary: "TORONTO, Feb. 13, 2025 (GLOBE NEWSWIRE) — Mink Ventures Corporation (“Mink” or the \"Company\") today announced assay results for its recently completed three-hole, 501-meter drill program at its Warren Nickel Copper Cobalt Project, located approximately 35 km west of Timmins, Ontario (Figure 1). The drill program intersected disseminated and semi..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+TORONTO, Feb. 13, 2025 (GLOBE NEWSWIRE) — Mink Ventures Corporation (“**Mink**” or the "**Company**") today announced assay results for its recently completed three-hole, 501-meter drill program at its Warren Nickel Copper Cobalt Project, located approximately 35 km west of Timmins, Ontario (Figure 1). The drill program intersected disseminated and semi massive sulphides in every hole and confirmed the geophysical data.
+
+**PROGRAM HIGHLIGHTS:**
+
+* Drill hole W-24-07 at the Shaft Zone was drilled to a depth of 195 meters, and **intersected 0.429% Nickel** (Ni), 0.274% Copper (Cu), and 0.0442% Cobalt (Co) over 1.6 meters including 0.57% Nickel (Ni) and 0.0597 Cobalt (Co) over 0.8 meters.
+* Drill hole W-24-08 on the SW Zone intersected an 8.1-meter section of anomalous copper including **0.431% Copper (Cu) over 0.7 meters** within a volcanic unit along the west contact of the gabbro intrusive.
+* Drill hole W-24-09, was drilled on an overburden covered portion of the northern part of the 1.6 km long induced polarization (IP) anomaly (Figures 2&3). This portion of the IP chargeability and resistivity low was explained by a broad sulphide zone with anomalous silver hosted in a volcanic package. The volcanics are thought to be the possible strike extension of the same package hosting historical hole ML-1\* which returned **0.84 Copper (Cu) over 4.3 meters** (Figures 2&3). This intercalated felsic/mafic volcanic package is thought to represent a new prospective target horizon for copper bearing volcanogenic massive sulphides (VMS) on the west flank of the gabbro intrusive. *\**Reference: LaPierre, K. 1996; Morgain Minerals Drill Log ML-1, Resident Geologist Files, Timmins, Ontario
+* Mink’s exploration and drilling at Warren has demonstrated the potential for deposition of nickel, copper, cobalt deposits and identified a new prospective copper exploration target within volcanics along the gabbro intrusive contact. Many of the property’s geophysical targets and multiple surface occurrences of Ni, Cu, Co warrant follow up or are totally untested. This includes priority targets such as the North Zone massive sulphide zone which returned confirmation grab samples of **0.967% Ni, and 0.0723% Co.** (See press release September 4, 2024.)
+* A third phase of drilling is planned and will focus on geophysical targets and occurrences within the gabbro complex targeting Ni, Cu, Co (Figures 2&3). Priority will be given to IP targets with resistivity lows and magnetic highs proximal to known surface occurrences within the central portion of the gabbro to test the potential for broader higher grade massive sulphide zones.
+* With the completion of this drill program, Mink fulfilled the work commitment ($300,000) of the option to earn a 100% interest in the Warren Patents. Half of Mink’s expenditures were offset by non-dilutive OJEP grants, making this a very cost-effective property acquisition.
+
+“We are very encouraged by the first two drill programs which intersected sulphide mineralization in every drill hole and confirmed the geophysical data over almost 1.6 km. The nickel, copper, and cobalt in massive sulphide within broad disseminated anomalous zones clearly demonstrates the potential for deposition of gabbro hosted Ni, Cu, Co deposits at Warren. Each exploration dollar we’ve spent has moved the project forward and continues to refine our understanding of the geology. Many surface occurrences with excellent Ni, Cu, Co grades with associated geophysical responses remain to be drill tested and we look forward to continuing to work at the Warren Property,” said Natasha Dixon, President and CEO.
+
+Shaft Zone: W24-07 Drill Core Ni, Cu, Co Bearing Sulphide Mineralization
+
+**Table 1: Drill Hole Co-Ordinates**
+
+| Drill Hole | UTM East | UTM North | Elevation(m) | Dip | Azimuth | Length (m) |
+| --- | --- | --- | --- | --- | --- | --- |
+| W-24-07 | 439046 | 5364554 | 320 | -45 | 90 | 195 |
+| W-24-08 | 439011 | 5364752 | 320 | -45 | 90 | 150 |
+| W-24-09 | 438912 | 5365248 | 320 | -45 | 90 | 156 |
+
+**Table 2: Drill Hole Assay Table Results**
+
+| DDH # | From (m) | To (m) | Meters (m) | Ni % | Cu % | Co % | Comment |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| W-24-07 | 71.6 | 75.5 | 3.9 | 0.074 | 0.1933 | 0.0119 |  |
+| W-24-07 | 95.0 | 97.6 | 2.6 | 0.264 | 0.1686 | 0.0272 |  |
+| includes | 95.0 | 96.0 | 1.0 | 0.0685 | 0.327 | 0.0088 |  |
+| includes | 96.0 | 97.6 | 1.6 | 0.4290 | 0.274 | 0.0442 | Conductive zone |
+| includes | 96.8 | 97.6 | 0.8 | 0.57 | 0.0671 | 0.0597 |  |
+| W-24-08 | 59.9 | 68.0 | 8.1 | 0.0490 | 0.1344 | 0.0087 | Conductive zone |
+| includes | 59.9 | 60.6 | 0.7 | 0.1425 | 0.431 | 0.0244 |  |
+| W-24-09 |  |  |  |  |  |  | No significant values |
+
+All intervals shown are core lengths as the true width of the interval is unknown.
+
+**WARREN PROPERTY GEOLOGY:**
+
+Mink’s Warren Property is hosted within the Kamiskotia Gabbro Complex (KGC) and is thought to be broadly equivalent to the Montcalm Gabbro Complex (MGC) but separated by a granitic arch. The MGC hosts the former Montcalm Mine which produced approximately 3.93 million tonnes grading 1.25% Ni, 0.67% Cu and 0.05% Co (OGS, Atkinson, B., 2010).
+
+Gabbro complexes such as MGC and KGC are known to be prospective for magmatic nickel copper sulphide deposition as demonstrated by the Montcalm Mine located within the MGC. The Warren Property complements Mink’s Montcalm Property due to the distinctly similar prospective geological environments found in the MGC and the KGC, as well as the presence of significant Ni Cu Co zones on the Warren Property.
+
+The Warren patents have had a sporadic exploration history since the late 1920’s to present day and a number of promising historical mineralized Ni Cu zones were outlined. The majority of the historical (60+years ago) exploration completed to date on the property localized to a very minimal portion of the property. More recent geophysical surveys from the early 1990’s and 2008-2009 outlined a series of untested targets along strike from known mineralization and/or new targets proximal to known mineralization.
+
+**Figure 1: Property Location Map:**
+
+![Property Location Map:](https://s3.tradingview.com/news/image/tag:reuters.com,2025-02-13:newsml_GNX2cSMyL-14ddfaeeadeaddf5148e2a3856bba090-resized.jpeg)
+
+Figure 2: IP Chargeability Contour and Surface Occurrences
+
+![IP Chargeability Contour and Surface Occurrences](https://s3.tradingview.com/news/image/tag:reuters.com,2025-02-13:newsml_GNX2cSMyL-89d7726e16390f24d4c290451f393ebc-resized.jpeg)
+
+Figure 3: Drill Hole Location with IP Chargeability Outline and Blue Resistivity Low Axis
+
+**![Drill Hole Location with IP Chargeability Outline and Blue Resistivity Low Axis](https://s3.tradingview.com/news/image/tag:reuters.com,2025-02-13:newsml_GNX2cSMyL-c44b7dbd2182ef8dfaf836a32581cd8a-resized.jpeg)**
+
+**Quality Assurance / Quality Control Program:**
+
+Drill core samples selected had a maximum sample length of 1.5 meters. Each sample was split with a mechanical splitter; a representative sample was retained for reference purposes with a designated sample tag stapled in the core box. Samples were transported in sealed bags to the ALS Canada Ltd. facility in Timmins for preparation. Pulps were transported to Vancouver, B.C., for 35-element MEICP41 aqua regia inductively coupled plasma atomic emission spectroscopy analysis, as well as PGM ICP23 analysis for gold-platinum-palladium analysis. For higher grade base metal samples, a second analysis was performed Cu OG46 analysis for over 10,000 ppm Cu and NiOG46 analysis for over 10,000 ppm Ni. Oreas standards and a blank sample were submitted by the corporation as an external check and numerous quality control samples and duplicates were completed as an internal check by ALS Canada Ltd. All standards and blanks submitted by the corporation were within an acceptable range for QA/QC purposes.
+
+**Qualified Person:** 
+
+Mr. Kevin Filo, P. Geo. (Ontario), is a qualified person within the meaning of National Instrument 43-101. Mr. Filo approved the technical data disclosed in this release.
+
+**About Mink Ventures Corporation:**
+
+Mink Ventures Corporation is a Canadian mineral exploration company exploring for critical minerals in Ontario, Canada. It has a prospective, nickel copper cobalt exploration portfolio, with its Montcalm project, which now covers approximately 100 km2 adjacent to Glencore’s former Montcalm Mine with historical production of 3.93 million tonnes of ore grading 1.25% Ni, 0.67% Cu and 0.051% Co (Ontario Geological Survey, Atkinson, 2010), as well as the expanded Warren Project. These complementary nickel copper cobalt projects have excellent access and infrastructure and are in close proximity to the Timmins Mining Camp. The Company has 22,456,488 common shares outstanding.
+
+For further information about Mink Ventures Corporation please contact: Natasha Dixon, President & CEO, T: 250-882-5620 E: ndixon@minkventures.com or Kevin Filo, Director, T: 705-266-6818 or visit www.sedarplus.ca
+
+**Forward Looking Statements**
+
+This press release includes certain “forward-looking information”, including, but not limited to, statements with respect to the prospectivity of the Montcalm and Warren Projects. Forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of Mink to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. Factors that could affect the outcome include, among others: future prices and the supply of metals; the results of exploration work; inability to raise the money necessary to incur the expenditures required to retain and advance the Warren Project and Montcalm Project; environmental liabilities (known and unknown); general business, economic, competitive, political and social uncertainties; accidents, labour disputes and other risks of the mining industry; political instability, or delays in obtaining governmental and stock exchange approvals. For a more detailed discussion of such risks and other factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements, refer to Mink’s filings with Canadian securities regulators available on SEDAR+. These forward-looking statements are made as of the date hereof and Mink disclaims any intent or obligation to update publicly any forward-looking statements, whether as a result of new information, future events or results or otherwise, except as required by applicable securities laws.
+
+Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or ac curacy of this release.
+
+Photos accompanying this announcement are available at
+
+https://www.globenewswire.com/NewsRoom/AttachmentNg/07b187e6-8de9-4c23-8fd5-89b92f425c80
+
+https://www.globenewswire.com/NewsRoom/AttachmentNg/811f0258-fc46-4051-8aff-5b9efaf281df
+
+https://www.globenewswire.com/NewsRoom/AttachmentNg/29d1b622-6c95-4ea6-98b6-a3f434458495
+
+https://www.globenewswire.com/NewsRoom/AttachmentNg/2f649209-e782-43d1-8559-a085ff2333c8
+
+**Shaft Zone:**
+
+**W24-07 Drill Core Ni, Cu, Co Bearing Sulphide Mineralization**
+
+**Figure 1:**
+
+**Property Location Map:**
+
+**Figure 2:**
+
+**IP Chargeability Contour and Surface Occurrences**
+
+**Figure 3:**
+
+**Drill Hole Location with IP Chargeability Outline and Blue Resistivity Low Axis**
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025-02-13:newsml_GNX2cSMyL:0-mink-ventures-intersects-nickel-copper-cobalt-mineralization-at-warren/)

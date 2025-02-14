@@ -1,0 +1,46 @@
+---
+title: "Founders Fund in talks to back defense firm Anduril at $28 billion valuation, sources say"
+date: "2025-02-08 12:29:48"
+summary: "AI-powered defense startup Anduril Industries is in talks for a new funding round that could hike the valuation of the Palmer Luckey-founded company to $28 billion, sources said on Friday.Tech billionaire Peter Thiel's Founders Fund is set to lead the round, which could be as much as $2.5 billion, according..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+AI-powered defense startup Anduril Industries is in talks for a new funding round that could hike the valuation of the Palmer Luckey-founded company to $28 billion, sources said on Friday.
+
+Tech billionaire Peter Thiel's Founders Fund is set to lead the round, which could be as much as $2.5 billion, according to the sources, signaling strong appetite from investors in this fast-growing defense tech company. The round would come only months after its last raise of $1.5 billion at a $14 billion valuation in August.
+
+Founders Fund has been a backer of Anduril since its start in 2017, and one of Anduril’s co-founders, Trae Stephens, is a partner at the firm.
+
+Founders Fund declined to comment on the funding, which was first reported by CNBC.
+
+Anduril, headquartered in Costa Mesa, California, develops autonomous weapons across a wide variety of sensors, including drones. The company announced last month it plans to build a large-scale weapons plant in central Ohio, as it uses funding to invest building out manufacturing capabilities.
+
+In 2023, the startup launched its Lattice for Mission Autonomy, an AI-enabled software to collaborate with teams of autonomous systems during missions under human supervision.
+
+Before Anduril, Luckey is credited with founding virtual reality company Oculus VR, which was acquired by Facebook in 2014 for $2.3 billion.
+
+U.S. Vice President JD Vance invested in Anduril during his previous career as a VC investor, and still hold stakes in the company, according to his filings.
+
+Thiel, who also co-founded military technology company Palantir , has been a longtime Republican donor, including backing President Donald Trump's first successful run in 2016 and Vance’s run for Senate in 2022.
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_L6N3OZ008:0-founders-fund-in-talks-to-back-defense-firm-anduril-at-28-billion-valuation-sources-say/)

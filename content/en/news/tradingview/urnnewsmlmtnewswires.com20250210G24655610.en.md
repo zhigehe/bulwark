@@ -1,0 +1,30 @@
+---
+title: "Jefferies Adjusts Gujarat Gas' Price Target to INR410 From INR330, Keeps at Underperform"
+date: "2025-02-10 18:11:56"
+summary: "Gujarat Gas  has an average rating of hold and price targets ranging from 362 Indian rupees to 750 rupees, according to analysts polled by Capital IQ."
+categories:
+  - "MT Newswires"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "MT Newswires"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+Gujarat Gas has an average rating of hold and price targets ranging from 362 Indian rupees to 750 rupees, according to analysts polled by Capital IQ.
+
+[MT Newswires](https://www.tradingview.com/news/mtnewswires.com:20250210:G2465561:0/)

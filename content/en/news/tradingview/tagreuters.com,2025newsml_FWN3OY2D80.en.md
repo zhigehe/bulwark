@@ -1,0 +1,35 @@
+---
+title: "Fertiglobe Qtrly Adjusted Profit Falls"
+date: "2025-02-10 12:12:59"
+summary: "FERTIGLOBE :QTRLY ADJUSTED NET PROFIT ATTRIBUTABLE $42 MILLION VERSUS $102.5 MILLION YEAR AGOQTRLY REVENUE $466 MILLION VERSUS $645.9 MILLION YEAR AGOQ4 2024 RESULTS AND SALES VOLUMES WERE IMPACTED BY PLANNED TURNAROUNDS IN ALGERIA SMF STRATEGIC DEFERRAL OF SEVERAL SHIPMENTSFERTIGLOBE H2 DIVIDEND 5.5 FILS PER SHARE"
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+FERTIGLOBE :
+
+* QTRLY ADJUSTED NET PROFIT ATTRIBUTABLE $42 MILLION VERSUS $102.5 MILLION YEAR AGO
+* QTRLY REVENUE $466 MILLION VERSUS $645.9 MILLION YEAR AGO
+* Q4 2024 RESULTS AND SALES VOLUMES WERE IMPACTED BY PLANNED TURNAROUNDS IN ALGERIA SMF STRATEGIC DEFERRAL OF SEVERAL SHIPMENTS
+* FERTIGLOBE H2 DIVIDEND 5.5 FILS PER SHARE
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_FWN3OY2D8:0-fertiglobe-qtrly-adjusted-profit-falls/)

@@ -1,0 +1,116 @@
+baseurl = "/"
+title = "Bulwark"
+languageCode = "en"
+defaultContentLanguage = "en" # 设置默认语言为英文
+pagination.pagerSize = "10" # Number of posts per page
+theme = "mainroad"
+timeZone = "Asia/Shanghai"
+
+[services.disqus]
+  shortname = "" # Enable Disqus by entering your Disqus shortname
+[services.googleAnalytics]
+  ID = "G-FMLBTHVSXW" # Enable Google Analytics by entering your tracking ID
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+    contentDir = "content/en"
+
+  [languages.zh-CN]
+    languageName = "中文简体"
+    languageCode = "zh-CN"
+    weight = 2
+    contentDir = "content/zh-CN"
+
+  [languages.zh-HK]
+    languageName = "中文繁体"
+    languageCode = "zh-HK"
+    weight = 3
+    contentDir = "content/zh-HK"
+
+[Params]
+  description = "Enable everyone to access information equally"
+  copyright = "Bulwark News" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = false # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  mainSections = ["news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02 15:04:05" # Change the format of dates
+  mathjax = false # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+  
+[Params.Author] # Used in authorbox
+  name = ""
+  bio = "John Doe's"
+  avatar = "img/avatar.png"
+
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
+
+  # Override font-family sets
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+  image = "img/logo.png" # Logo image. Path relative to "static"
+  title = "Bulwark News" # Logo title, otherwise will use site title
+  subtitle = "Enable everyone to access information equally" # Logo subtitle
+
+[Params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "taglist", "languages"]
+
+[Params.widgets]
+  recent_num = 8 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  cached = false # activate cache if true
+  # Enable parts of social widget
+  # facebook = "username"
+  # twitter = "username"
+  # instagram = "username"
+  # linkedin = "username"
+  # telegram = "username"
+  # github = "username"
+  # gitlab = "username"
+  # bitbucket = "username"
+  # email = "example@example.com"
+
+# Custom social links
+[[Params.widgets.social.custom]]
+  title = "Youtube"
+  url = "https://youtube.com/user/username"
+  icon = "" # Optional. Path relative to "layouts/partials"
+  rel = "noopener noreferrer" # Set to false to remove the rel attribute
+
+[[Params.widgets.social.custom]]
+  title = "Home Page"
+  url = "https://example.com"
+
+[Params.widgets.search]
+  cached = true
+  url = "https://google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = "site:news.hmzwx.com"

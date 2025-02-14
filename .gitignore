@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# IDE specific
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# hugo
+/news/
+/public/

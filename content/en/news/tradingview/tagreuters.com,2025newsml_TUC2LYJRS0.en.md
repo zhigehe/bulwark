@@ -1,0 +1,35 @@
+---
+title: "IMPALA EXPECTS H1 HEPS BETWEEN 184 CENTS AND 217 CENTS PER SHARE"
+date: "2025-02-11 14:09:44"
+summary: "Impala Platinum Holdings Ltd :JSE: IMP - PRODUCTION UPDATE AND TRADING STATEMENT FOR THE SIX MONTHS ENDED 31 DECEMBER 2024IMPALA PLATINUM HOLDINGS LTD - GROSS GROUP 6E PRODUCTION DECREASES BY 4% TO 1.82 MILLION OUNCES IN HYIMPALA PLATINUM - FOR H1 FY2025 IMPLATS' HEPS EXPECTED TO BE BETWEEN 184 CENTS..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+Impala Platinum Holdings Ltd :
+
+* JSE: IMP - PRODUCTION UPDATE AND TRADING STATEMENT FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+* IMPALA PLATINUM HOLDINGS LTD - GROSS GROUP 6E PRODUCTION DECREASES BY 4% TO 1.82 MILLION OUNCES IN HY
+* IMPALA PLATINUM - FOR H1 FY2025 IMPLATS' HEPS EXPECTED TO BE BETWEEN 184 CENTS AND 217 CENTS PER SHARE
+* IMPALA PLATINUM: ON TRACK TO DELIVER FY2025 REFINED PRODUCTION, UNIT COST AND CAPITAL EXPENDITURE GUIDANCE
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_TUC2LYJRS:0-impala-expects-h1-heps-between-184-cents-and-217-cents-per-share/)

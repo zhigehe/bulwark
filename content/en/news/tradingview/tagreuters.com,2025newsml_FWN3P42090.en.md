@@ -1,0 +1,37 @@
+---
+title: "Nextensa FY NAV Group Share At EUR 812.49 Mln"
+date: "2025-02-14 01:32:46"
+summary: "Nextensa NV :FY NET ASSET VALUE GROUP SHARE EUR 812.49 MILLIONFY RENTAL EUR 72.18 MILLIONFY NET RESULT GROUP SHARE EUR -10,83 MILLIONOUTLOOK 2025: WE EXPECT THE PERMIT FOR THE MONTREE PROJECT IN THE CBD DURING 2025OUTLOOK 2025: NEW PROJECTS WILL ONLY BE LAUNCHED AT ACCEPTABLE LEVELS OF PRE-SALESOUTLOOK 2025: PERMIT..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+Nextensa NV :
+
+* FY NET ASSET VALUE GROUP SHARE EUR 812.49 MILLION
+* FY RENTAL EUR 72.18 MILLION
+* FY NET RESULT GROUP SHARE EUR -10,83 MILLION
+* OUTLOOK 2025: WE EXPECT THE PERMIT FOR THE MONTREE PROJECT IN THE CBD DURING 2025
+* OUTLOOK 2025: NEW PROJECTS WILL ONLY BE LAUNCHED AT ACCEPTABLE LEVELS OF PRE-SALES
+* OUTLOOK 2025: PERMIT FOR THE LAKE SIDE PROJECT IS EXPECTED IN THE SECOND HALF OF THIS YEAR
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_FWN3P4209:0-nextensa-fy-nav-group-share-at-eur-812-49-mln/)

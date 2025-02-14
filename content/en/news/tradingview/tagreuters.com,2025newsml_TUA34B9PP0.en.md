@@ -1,0 +1,41 @@
+---
+title: "Unibail-Rodamco-Westfield Outlook 2025: AREPS Forecasted To Be In Range Of EUR 9.30 To EUR 9.50"
+date: "2025-02-13 14:38:17"
+summary: "Unibail-Rodamco-Westfield :UNIBAIL-RODAMCO-WESTFIELD REPORTS FY-2024 EARNINGS2024 TENANT SALES UP +4.5% AND FOOTFALL UP +2.6% VERSUS. 2023OUTLOOK 2025: AREPS FORECASTED TO BE IN RANGE OF EUR 9.30 TO EUR 9.502024 SHOPPING CENTRE NET RENTAL INCOME (NRI) AT EUR 2,073 MN, UP +5.8%3 ON A LIKE-FOR-LIKE BASIS2024 EBITDA OF EUR 2,352 MN, UP..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+Unibail-Rodamco-Westfield :
+
+* UNIBAIL-RODAMCO-WESTFIELD REPORTS FY-2024 EARNINGS
+* 2024 TENANT SALES UP +4.5% AND FOOTFALL UP +2.6% VERSUS. 2023
+* OUTLOOK 2025: AREPS FORECASTED TO BE IN RANGE OF EUR 9.30 TO EUR 9.50
+* 2024 SHOPPING CENTRE NET RENTAL INCOME (NRI) AT EUR 2,073 MN, UP +5.8%3 ON A LIKE-FOR-LIKE BASIS
+* 2024 EBITDA OF EUR 2,352 MN, UP +7.0% VERSUS. 2023 ON A LIKE-FOR-LIKE BASIS
+* 2024 NET DEBT TO EBITDA AT 8.7X VERSUS. 9.3X IN 2023
+* 2024 RECURRING NET RESULT5 OF +EUR 1,472 MN AND IFRS NET RESULT6 OF +EUR 146 MN
+* +40% INCREASE OF PROPOSED2 DISTRIBUTION TO EUR 3.50/SHARE
+* 2024: EUR 1.6 BN OF DISPOSAL TRANSACTIONS1 ACHIEVED AT BOOK VALUEIMPROVING GROUP'S FINANCIAL RATIOS
+* 2024 ADJUSTED RECURRING EPS ABOVE GUIDANCE AT EUR 9.85
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_TUA34B9PP:0-unibail-rodamco-westfield-outlook-2025-areps-forecasted-to-be-in-range-of-eur-9-30-to-eur-9-50/)

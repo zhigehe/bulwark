@@ -1,0 +1,104 @@
+---
+title: "'I am pretty much uninsurable': My 20-year term life insurance is up, but I was diagnosed with throat cancer. Do I renew it?"
+date: "2025-02-09 22:30:55"
+summary: "By Quentin Fottrell 'The annual premiums were a couple hundred dollars. The term is up and the new annual premium is $4,600' Dear Quentin, Almost 20 years ago, I took out a 20-year term life insurance policy for $500,000 and named my wife as beneficiary. The annual premiums were a..."
+categories:
+  - "morningstar"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "morningstar"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+By Quentin Fottrell
+
+'The annual premiums were a couple hundred dollars. The term is up and the new annual premium is $4,600'
+
+Dear Quentin,
+
+Almost 20 years ago, I took out a 20-year term life insurance policy for $500,000 and named my wife as beneficiary. The annual premiums were a couple hundred dollars. The term is up and the new annual premium is $4,600. It's not unexpected as I'm 20 years older.
+
+Here's the kicker: Last month, I was diagnosed with throat cancer. I go in for surgery this week but there are still a few unknowns. Still, with treatment, I'd guess my odds are better than 50/50 but I'm no doctor.
+
+Now that I am pretty much uninsurable, should I suck it up and continue this policy at the new, higher rate? We have no mortgage and no kids. We have $1.5 million in retirement accounts and a couple of paid-off rental properties.
+
+Nearing Retirement
+
+Related: 'My mother-in-law has done some shady stuff': She wants to sell air rights to her home and cheated her grandchildren out of their inheritance
+
+Dear Nearing,
+
+You appear to be taking this health event in your stride, and doing everything you can to make sure you get the best treatment you can. I wish you the very best with your treatment. Your doctors should be able to give you more clarity with time.
+
+In the meantime, you're wise to wait before canceling this policy. Let's say you're now 60: Given that you have been paying into it for the last 20 years, I don't see how another 12 months would do any harm, especially as you are dealing with this cancer diagnosis.
+
+The likelihood is that you will live for many more years, but there are so many variables with any diagnosis, including laryngeal and hypopharyngeal cancers. But the life-insurance company takes your age and current health status into account when weighing a decision.
+
+Looking at it another way, independent of your diagnosis, even if you live another 20 years, you will have paid out $92,000, which isn't just over 18% of the total payout. If you live to be 100, you will have paid out $184,000 or 37%, excluding previous premiums, at the current rate.
+
+However, after term life insurance expires, it converts to renewable term life insurance, which may go up every year, based on your age and other risk factors. So by all means keep your insurance for another year, and reassess it after that time elapses.
+
+"With a renewable term life insurance policy, coverage can be renewed without a medical exam when your term expires," according to Fidelity Life. "Renewability is popular among young people looking for shorter-term coverage and affordable premiums."
+
+It's usually a short-term solution. "Renewable term life insurance is designed to allow younger, healthier people to access the lowest possible premium available for their current age and health," it adds, "and provide a way to maintain insurance coverage year after year."
+
+The insurance company jacked up the premium to reflect your age and the higher risk that comes with age, but it's designed to deter you from continuing.
+
+The insurance company jacked up your premiums because your term has been completed and they are free to change the terms; but you are older, so you are a higher risk, but they also know they're more likely to face a payout. So it's designed to deter you from continuing.
+
+You would have a $383 premium every month. Is that a lot more than your previous policy - $100 or $150? Would you spend that on a night out with your wife? Will your rental properties, and other sources of income provide you with a comfortable retirement?
+
+As that great assessor of insurance policies, Albert Einstein, would tell you if he showed up on your doorstep, asking you to sign on the dotted line, it's all relative. The reward for your wife looks, for now at least, the extra hundred-plus bucks every month.
+
+Bankrate.com has a calculator for life-insurance policies, but it also urges caution for people who want to take out term life insurance after 50. It seems like you, however, took a good gamble, given that you appeared to be in your 40s when you took this policy out.
+
+"When someone buys coverage in their 20s, the risk of the policyholder passing away and the life insurance company no longer having their premium payments is lower than it is for someone who is older," Bankrate says.
+
+"Additionally, many life insurance policies require a medical exam," it adds. "If you know your medical review will likely raise a red flag for your insurer - a probability that increases with age - you can likely expect to pay more for your policy," Bankrate adds.
+
+Godspeed, my friend, whatever you decide to do, and I wish you well with your health in the months and years ahead. Whether or not you continue the policy, it was a good bet at the time. I'm just not sure you should take all your chips off the table quite yet.
+
+Related: 'I don't want to stop her from moving on with her life': My second wife is younger than me. If I die first, how do I make sure she doesn't cut off my children?
+
+You can email The Moneyist with any financial and ethical questions at qfottrell@marketwatch.com. The Moneyist regrets he cannot reply to questions individually.
+
+Previous columns by Quentin Fottrell:
+
+'I wish Dad were here': I received $500,000 after my late father's wrongful-death lawsuit. My adviser suggests annuities.
+
+My husband and I are 40. I have $200,000 in student debt, while he has $600,000 in retirement savings. Are we in trouble?
+
+'It was obvious I wasn't in Kansas anymore': My local bank has no cashiers - and it went downhill from there.
+
+Check out the Moneyist private Facebook group, where members help answer life's thorniest money issues. Post your questions, or weigh in on the latest Moneyist columns.
+
+By emailing your questions to the Moneyist or posting your dilemmas on the Moneyist Facebook group, you agree to have them published anonymously on MarketWatch.
+
+By submitting your story to Dow Jones & Co., the publisher of MarketWatch, you understand and agree that we may use your story, or versions of it, in all media and platforms, including via third parties.
+
+-Quentin Fottrell
+
+This content was created by MarketWatch, which is operated by Dow Jones & Co. MarketWatch is published independently from Dow Jones Newswires and The Wall Street Journal.
+
+(END) Dow Jones Newswires
+
+02-09-25 0916ET
+
+Copyright (c) 2025 Dow Jones & Company, Inc.
+
+[morningstar](https://www.morningstar.com/news/marketwatch/20250209161/i-am-pretty-much-uninsurable-my-20-year-term-life-insurance-is-up-but-i-was-diagnosed-with-throat-cancer-do-i-renew-it)

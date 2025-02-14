@@ -1,0 +1,37 @@
+---
+title: "Wisetech Global Notes Media Commentary Today Regarding Founder And Founding CEO"
+date: "2025-02-10 09:47:26"
+summary: "WiseTech Global Ltd :NOTES MEDIA COMMENTARY TODAY REGARDING FOUNDER AND FOUNDING CEORECEIVED TWO CONFIDENTIAL COMPLAINTS, FROM AN EMPLOYEE AND A SUPPLIER TO COMPANYRECEIVED TWO CONFIDENTIAL COMPLAINTS, FROM AN EMPLOYEE AND A SUPPLIER TO COMPANY, MAKING ALLEGATIONS IN RELATION TO F&amp;FCEOOMP COMPLAINTS MAKING ALLEGATIONS IN RELATION TO F&amp;FCEOWISETECH GLOBAL LTD -..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+WiseTech Global Ltd :
+
+* NOTES MEDIA COMMENTARY TODAY REGARDING FOUNDER AND FOUNDING CEO
+* RECEIVED TWO CONFIDENTIAL COMPLAINTS, FROM AN EMPLOYEE AND A SUPPLIER TO COMPANY
+* RECEIVED TWO CONFIDENTIAL COMPLAINTS, FROM AN EMPLOYEE AND A SUPPLIER TO COMPANY, MAKING ALLEGATIONS IN RELATION TO F&FCEO
+* OMP COMPLAINTS MAKING ALLEGATIONS IN RELATION TO F&FCEO
+* WISETECH GLOBAL LTD - COMPLAINTS BEING CONSIDERED IN ONGOING BOARD REVIEW
+* COMPLAINTS MAKING ALLEGATIONS IN RELATION TO F&FCEO (DROPS EXTRANEOUS WORD "OMP")
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_FWN3P002W:0-wisetech-global-notes-media-commentary-today-regarding-founder-and-founding-ceo/)

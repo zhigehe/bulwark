@@ -1,0 +1,55 @@
+---
+title: "CME Group Inc reports results for the quarter ended December 31 - Earnings Summary"
+date: "2025-02-12 23:31:21"
+summary: "CME Group Inc reported quarterly adjusted earnings of $2.52​​ per share for the quarter ended December 31, higher than the same quarter last year, when the company reported EPS of $2.37. The mean expectation of fifteen analysts for the quarter was for earnings of $2.44 per share. Wall Street expected..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+* CME Group Inc reported quarterly adjusted earnings of $2.52​​ per share for the quarter ended December 31, higher than the same quarter last year, when the company reported EPS of $2.37. The mean expectation of fifteen analysts for the quarter was for earnings of $2.44 per share. Wall Street expected results to range from $2.40 to $2.48 per share.
+* Revenue rose 6% to $1.53 billion from a year ago; analysts expected $1.52 billion.
+* CME Group Inc's reported EPS for the quarter was $2.40​.
+* The company reported quarterly net income of $863.7 million.
+* CME Group Inc shares had risen by 4.1% this quarter.
+
+FORECAST CHANGES
+
+* The mean earnings estimate of analysts had fallen by about 0.7% in the last three months.​
+* In the last 30 days, four analysts negatively revised earnings estimates
+
+RECOMMENDATIONS
+
+* The current average analyst rating on the shares is "hold" and the breakdown of recommendations is 6 "strong buy" or "buy," 9 "hold" and 3 "sell" or "strong sell."
+* The average consensus recommendation for the financial & commodity market operators & service providers peer group is also "hold"
+
+Wall Street's median 12-month price target for CME Group Inc is $253.00
+
+This summary was machine generated from LSEG data February 12 at 03:31 p.m. UTC. ​All figures in US dollars unless otherwise stated. (For questions concerning the data in this report, contact Estimates.Support@lseg.com. For any other questions or feedback, contact [RefinitivNewsSupport@thomsonreuters.com](http://mailto:RefinitivNewsSupport@thomsonreuters.com))
+
+| QUARTER ENDING | ESTIMATE | ACTUAL | BEAT, MET, MISSED |
+| --- | --- | --- | --- |
+| Dec. 31 2024 | 2.44 | 2.52 | Beat |
+| Sep. 30 2024 | 2.65 | 2.68 | Beat |
+| Jun. 30 2024 | 2.53 | 2.56 | Beat |
+| Mar. 31 2024 | 2.45 | 2.50 | Beat |
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_L8N3P31UP:0-cme-group-inc-reports-results-for-the-quarter-ended-december-31-earnings-summary/)

@@ -1,0 +1,55 @@
+---
+title: "Edwards Lifesciences Corp reports results for the quarter ended December 31 - Earnings Summary"
+date: "2025-02-12 06:38:54"
+summary: "Edwards Lifesciences Corp reported quarterly adjusted earnings of 59 cents​​ per share for the quarter ended December 31, lower than the same quarter last year, when the company reported EPS of 64 cents. The mean expectation of twenty seven analysts for the quarter was for earnings of 55 cents per..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+* Edwards Lifesciences Corp reported quarterly adjusted earnings of 59 cents​​ per share for the quarter ended December 31, lower than the same quarter last year, when the company reported EPS of 64 cents. The mean expectation of twenty seven analysts for the quarter was for earnings of 55 cents per share. Wall Street expected results to range from 53 cents to 64 cents per share.
+* Revenue fell 9.7% to $1.39 billion from a year ago; analysts expected $1.36 billion.
+* Edwards Lifesciences Corp's reported EPS for the quarter was 58 cents​.
+* The company reported quarterly net income of $345 million.
+* Edwards Lifesciences Corp shares had fallen by 4.0% this quarter.
+
+FORECAST CHANGES
+
+* The mean earnings estimate of analysts was unchanged in the last three months.​
+* In the last 30 days, there have been no negative revisions of earnings estimates
+
+RECOMMENDATIONS
+
+* The current average analyst rating on the shares is "buy" and the breakdown of recommendations is 15 "strong buy" or "buy," 18 "hold" and 1 "sell" or "strong sell."
+* The average consensus recommendation for the advanced medical equipment & technology peer group is also "buy"
+
+Wall Street's median 12-month price target for Edwards Lifesciences Corp is $78.07
+
+This summary was machine generated from LSEG data February 11 at 10:38 p.m. UTC. ​All figures in US dollars unless otherwise stated. (For questions concerning the data in this report, contact Estimates.Support@lseg.com. For any other questions or feedback, contact [RefinitivNewsSupport@thomsonreuters.com](http://mailto:RefinitivNewsSupport@thomsonreuters.com))
+
+| QUARTER ENDING | ESTIMATE | ACTUAL | BEAT, MET, MISSED |
+| --- | --- | --- | --- |
+| Dec. 31 2024 | 0.55 | 0.59 | Beat |
+| Sep. 30 2024 | 0.64 | 0.67 | Beat |
+| Jun. 30 2024 | 0.69 | 0.70 | Beat |
+| Mar. 31 2024 | 0.64 | 0.66 | Beat |
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_L8N3P22UC:0-edwards-lifesciences-corp-reports-results-for-the-quarter-ended-december-31-earnings-summary/)

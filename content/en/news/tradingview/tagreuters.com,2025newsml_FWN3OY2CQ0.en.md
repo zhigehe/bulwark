@@ -1,0 +1,36 @@
+---
+title: "Star Entertainment Says It Received Non-Binding Proposals To Acquire Its 50% Interest In DBC"
+date: "2025-02-10 06:39:29"
+summary: "Star Entertainment Group Ltd :RESPONSE TO MEDIA SPECULATIONRECEIVED SEVERAL CONFIDENTIAL, INDICATIVE AND NON-BINDING PROPOSALS FROM CHOW TAI FOOK ENTERPRISES AND FAR EAST CONSORTIUM INTERNATIONALPARTIES SEEKING TO ACQUIRE STAR'S 50% INTEREST IN DBC, ALONG WITH OTHER ASSETSAFTER CAREFUL CONSIDERATION CONCLUDED THAT NONE OF PROPOSALS HAVE PROVIDED SUFFICIENT VALUE FOR STAR.CONTINUES TO..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+Star Entertainment Group Ltd :
+
+* RESPONSE TO MEDIA SPECULATION
+* RECEIVED SEVERAL CONFIDENTIAL, INDICATIVE AND NON-BINDING PROPOSALS FROM CHOW TAI FOOK ENTERPRISES AND FAR EAST CONSORTIUM INTERNATIONAL
+* PARTIES SEEKING TO ACQUIRE STAR'S 50% INTEREST IN DBC, ALONG WITH OTHER ASSETS
+* AFTER CAREFUL CONSIDERATION CONCLUDED THAT NONE OF PROPOSALS HAVE PROVIDED SUFFICIENT VALUE FOR STAR.
+* CONTINUES TO ENGAGE WITH CTFE AND FEC TO ASCERTAIN WHETHER A SALE OF STAR'S 50% INTEREST IN DBC CAN BE NEGOTIATED
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_FWN3OY2CQ:0-star-entertainment-says-it-received-non-binding-proposals-to-acquire-its-50-interest-in-dbc/)
