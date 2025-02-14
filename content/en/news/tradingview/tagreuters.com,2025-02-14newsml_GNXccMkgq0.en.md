@@ -1,0 +1,60 @@
+---
+title: "DBGI Announces Pricing of $7.5 Million Public Offering of Units of Common Stock and/or Pre-Funded Warrants and Warrants"
+date: "2025-02-14 10:47:00"
+summary: "Austin, TX, Feb. 13, 2025 (GLOBE NEWSWIRE) — Digital Brands Group, Inc. (“DBG”) (OTC PINK: DBGI), a curated collection of luxury lifestyle brands, announces the pricing of its public offering of an aggregate of 11.36 million units, of which each unit includes a share of common stock and/or pre-funded warrant..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+Austin, TX, Feb. 13, 2025 (GLOBE NEWSWIRE) — Digital Brands Group, Inc. (“DBG”) (OTC PINK: DBGI), a curated collection of luxury lifestyle brands, announces the pricing of its public offering of an aggregate of 11.36 million units, of which each unit includes a share of common stock and/or pre-funded warrant to purchase common stock, plus two common stock purchase warrants, at a public offering price of $0.66 per unit (minus $0.0001 per unit that includes a pre-funded warrant). The gross proceeds from the offering, before deducting the placement agent's fees and other offering expenses, are expected to be $7.5 million. DBG intends to use the net proceeds of the offering for working capital, general corporate purposes, and the repayment of debt.
+
+RBW Capital Partners LLC, acting through Dawson James Securities, Inc. (the “Placement Agent”), is acting as the exclusive placement agent for the offering.
+
+Anthony Linder Cacomanolis PLLC is acting as legal counsel to Digital Brands Group, Inc. and Sichenzia Ross Ference Carmel LLP is acting as legal counsel to the Placement Agent.
+
+The offering is expected to close on February 18, 2025, subject to customary closing conditions. The offering is being conducted pursuant to the Company’s registration statement on Form S-1, as amended (File No. 333- 284508), initially filed with the Securities and Exchange Commission (the “SEC”) on or around January 27, 2025, and subsequently declared effective by the SEC on February 11, 2025. A final prospectus relating to the offering will be filed with the SEC and will be available on the SEC’s website at https://www.sec.gov/. Copies of the final prospectus relating to this offering may be obtained from the Placement Agent at 101 North Federal Highway, Suite 600, Boca Raton, FL 33432, or the email address investmentbanking@dawsonjames.com.
+
+This press release shall not constitute an offer to sell or a solicitation of an offer to buy any of the securities described herein, nor shall there be any sale of these securities in any state or other jurisdiction in which such offer, solicitation or sale would be unlawful prior to the registration or qualification under the securities laws of any such state or other jurisdiction.
+
+About Digital Brands Group
+
+We offer a wide variety of apparel through numerous brands on a both direct-to-consumer and wholesale basis. We have created a business model derived from our founding as a digitally native-first vertical brand. We focus on owning the customer's "closet share" by leveraging their data and purchase history to create personalized targeted content and looks for that specific customer cohort.
+
+***Forward-looking Statements***
+
+This press release contains forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995 and other federal securities laws. Forward-looking statements are made based on our expectations and beliefs concerning future events impacting DBG and therefore involve several risks and uncertainties. You can identify these statements by the fact that they use words such as “will,” “anticipate,” “estimate,” “expect,” “should,” and “may” and other words and terms of similar meaning or use of future dates, however, the absence of these words or similar expressions does not mean that a statement is not forward-looking. All statements regarding DBG’s plans, objectives, projections and expectations relating to DBG’s operations or financial performance, and assumptions related thereto are forward-looking statements. We caution that forward-looking statements are not guarantees and that actual results could differ materially from those expressed or implied in the forward-looking statements. DBG undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. Potential risks and uncertainties that could cause the actual results of operations or financial condition of DBG to differ materially from those expressed or implied by forward-looking statements include, but are not limited to: risks arising from the widespread outbreak of an illness or any other communicable disease, or any other public health crisis, including the coronavirus (COVID-19) global pandemic; the level of consumer demand for apparel and accessories; disruption to DBGs distribution system; the financial strength of DBG’s customers; fluctuations in the price, availability and quality of raw materials and contracted products; disruption and volatility in the global capital and credit markets; DBG’s response to changing fashion trends, evolving consumer preferences and changing patterns of consumer behavior; intense competition from online retailers; manufacturing and product innovation; increasing pressure on margins; DBG’s ability to implement its business strategy; DBG’s ability to grow its wholesale and direct-to-consumer businesses; retail industry changes and challenges; DBG’s and its vendors’ ability to maintain the strength and security of information technology systems; the risk that DBG’s facilities and systems and those of our third-party service providers may be vulnerable to and unable to anticipate or detect data security breaches and data or financial loss; DBG’s ability to properly collect, use, manage and secure consumer and employee data; stability of DBG’s manufacturing facilities and foreign suppliers; continued use by DBG’s suppliers of ethical business practices; DBG’s ability to accurately forecast demand for products; continuity of members of DBG’s management; DBG’s ability to protect trademarks and other intellectual property rights; possible goodwill and other asset impairment; DBG’s ability to execute and integrate acquisitions; changes in tax laws and liabilities; legal, regulatory, political and economic risks; adverse or unexpected weather conditions; DBG's indebtedness and its ability to obtain financing on favorable terms, if needed, could prevent DBG from fulfilling its financial obligations; and climate change and increased focus on sustainability issues. More information on potential factors that could affect DBG’s financial results is included from time to time in DBG’s public reports filed with the SEC, including DBG’s Annual Report on Form 10-K, and Quarterly Reports on Form 10-Q, and Forms 8-K filed or furnished with the SEC.
+
+Digital Brands Group, Inc. Company Contact
+
+**Hil Davis**, CEO
+
+Email: invest@digitalbrandsgroup.co
+
+Phone: (800) 593-1047
+
+SOURCE Digital Brands Group, Inc.
+
+Related Links
+
+https://ir.digitalbrandsgroup.co
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025-02-14:newsml_GNXccMkgq:0-dbgi-announces-pricing-of-7-5-million-public-offering-of-units-of-common-stock-and-or-pre-funded-warrants-and-warrants/)
