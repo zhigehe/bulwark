@@ -66,13 +66,13 @@ jobs:
         run: |
           git config --global user.name "genkinj"
           git config --global user.email "genkinj@gmail.com"
-          git add .
-          git commit -m "$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
-          git pull --rebase origin main
+          git add . --quiet
+          git commit -m "$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')" --quiet
+          git pull --rebase origin main --quiet
           rm -rf .git
-          git config --global init.defaultBranch main
-          git init .
+          git config --global init.defaultBranch main 
+          git init . --quiet
           git remote add origin git@github.com:genkinj/bulwark.git
-          git add .
-          git commit -am "generate news"
+          git add . --quiet
+          git commit -am "generate news" --quiet
           git push origin main -f
