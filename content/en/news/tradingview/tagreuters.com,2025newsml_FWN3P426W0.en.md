@@ -1,0 +1,38 @@
+---
+title: "Axactor Q4 Gross Revenue EUR 161 Mln"
+date: "2025-02-14 14:07:00"
+summary: "Axactor ASA :Q4 GROSS REVENUE OF EUR 161MQ4 TOTAL REVENUE OF EUR -43MQ4 EBITDA OF EUR -74MEXPECTS IMPROVED COLLECTION PERFORMANCE IN 2025RETURN ON EQUITY SHOULD BE AT LEAST 12% IN 2026, WITH A LEVERAGE RATIO OF 3.5X OR LESSANNUAL NPL INVESTMENTS IN THE PERIOD 2024-2026 SHOULD BE IN THE REGION..."
+categories:
+  - "Reuters"
+lang:
+  - "en"
+translations:
+  - "en"
+tags:
+  - "Reuters"
+menu: ""
+thumbnail: ""
+lead: ""
+comments: false
+authorbox: false
+pager: true
+toc: false
+mathjax: false
+sidebar: "right"
+widgets:
+  - "search"
+  - "recent"
+  - "taglist"
+---
+
+Axactor ASA :
+
+* Q4 GROSS REVENUE OF EUR 161M
+* Q4 TOTAL REVENUE OF EUR -43M
+* Q4 EBITDA OF EUR -74M
+* EXPECTS IMPROVED COLLECTION PERFORMANCE IN 2025
+* RETURN ON EQUITY SHOULD BE AT LEAST 12% IN 2026, WITH A LEVERAGE RATIO OF 3.5X OR LESS
+* ANNUAL NPL INVESTMENTS IN THE PERIOD 2024-2026 SHOULD BE IN THE REGION EUR 100-200 MILLION
+* TARGET: ANNUAL DIVIDEND PAYMENTS SHOULD BE WITHIN 20-50% OF THE REPORTED NET PROFIT
+
+[Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_FWN3P426W:0-axactor-q4-gross-revenue-eur-161-mln/)
